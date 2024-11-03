@@ -13,7 +13,7 @@ Before running the scripts, you need to:
 This modelling consisted of two scripts:
 1. `preprocess.ipynb`.
 
-	This script purpose is to generate the sample data on which to trained the model. It will load Landsat imagery and raster land cover from cloud storage then turn it into multiple grid/patch of smaller image/map to used to train the model. Then saved the the patch in the your local drive which can be loaded in `modelling.ipynb` script. Read more in the script to understand more.
+	This script purpose is to generate the sample data on which to trained the model. It will load Landsat imagery and raster land cover from cloud storage then turn it into multiple grid/patch of smaller image/map to used to train the model. Then saved the the patch in the your local drive which can be loaded in `modelling.ipynb` script.
 
 2. `modelling.ipynb`
 
